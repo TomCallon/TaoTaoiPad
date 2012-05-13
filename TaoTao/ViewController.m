@@ -90,8 +90,6 @@
     page7View.backgroundColor = [UIColor clearColor];
   
     
-    
-    
        
     NSArray * array1  = [[NSArray alloc]initWithObjects:@"37",@"38",@"43",@"44",@"45",@"46", nil];
     
